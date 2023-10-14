@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pH29SnDivhkCoRG9qGXbiekXiZk1q7gVSvxHbe9gOwYYMQqcnzW02/RRLRuvc0zqVlE3QNAn6qSHAnHhdx+E+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junio\\source\\repos\\PokemonProxy\\PokemonProxy\\PokemonProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\magick.net.core\\13.3.0\\magick.net.core.13.3.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
