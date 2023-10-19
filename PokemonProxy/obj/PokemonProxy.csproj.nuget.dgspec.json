@@ -45,6 +45,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Gifski.Net": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Magick.NET-Q16-AnyCPU": {
+              "target": "Package",
+              "version": "[13.3.0, )"
+            },
             "Magick.NET.Core": {
               "target": "Package",
               "version": "[13.3.0, )"
@@ -52,6 +60,10 @@
             "SixLabors.ImageSharp": {
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
